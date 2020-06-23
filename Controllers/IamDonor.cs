@@ -173,7 +173,7 @@ namespace Donor.Controllers
                 _context.SaveChanges();
             }
             ViewBag.Msg = "Thanks, Your request sucessfully executed!";
-            return View();
+            return View("Remove");
         }
 
         // POST: DonorModels/Delete/5

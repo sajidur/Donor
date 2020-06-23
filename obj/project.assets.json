@@ -9256,11 +9256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p\\source\\repos\\Donor\\Donor.csproj",
+      "projectUniqueName": "E:\\My Work\\Donor\\Donor.csproj",
       "projectName": "Donor",
-      "projectPath": "C:\\Users\\p\\source\\repos\\Donor\\Donor.csproj",
+      "projectPath": "E:\\My Work\\Donor\\Donor.csproj",
       "packagesPath": "C:\\Users\\p\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p\\source\\repos\\Donor\\obj\\",
+      "outputPath": "E:\\My Work\\Donor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
