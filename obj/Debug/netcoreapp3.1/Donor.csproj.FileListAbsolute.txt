@@ -323,7 +323,6 @@ E:\My Work\Donor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 E:\My Work\Donor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\My Work\Donor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\My Work\Donor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\My Work\Donor\obj\Debug\netcoreapp3.1\Donor.csprojAssemblyReference.cache
 E:\My Work\Donor\obj\Debug\netcoreapp3.1\staticwebassets\Donor.StaticWebAssets.Manifest.cache
 E:\My Work\Donor\obj\Debug\netcoreapp3.1\staticwebassets\Donor.StaticWebAssets.xml
 E:\My Work\Donor\obj\Debug\netcoreapp3.1\Donor.MvcApplicationPartsAssemblyInfo.cache
