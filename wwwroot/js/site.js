@@ -40,7 +40,7 @@ $("#District").change(function () {
     var filteredValue = thanaList.filter(function (item) {
         return item.district_id == selectedDistrict;
     });
-    var thanadropdown = $('#Thana');
+    var thanadropdown = $('#Thana').empty();
     $.each(filteredValue, function (key, value) {
         thanadropdown.append('<option value="' + key + '">' + value.name + '</option>');
     });

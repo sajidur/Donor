@@ -357,3 +357,4 @@ E:\My Work\Donor\obj\Debug\netcoreapp3.1\Donor.Views.pdb
 E:\My Work\Donor\obj\Debug\netcoreapp3.1\Donor.csproj.CopyComplete
 E:\My Work\Donor\obj\Debug\netcoreapp3.1\Donor.dll
 E:\My Work\Donor\obj\Debug\netcoreapp3.1\Donor.pdb
+E:\My Work\Donor\obj\Debug\netcoreapp3.1\Donor.csprojAssemblyReference.cache
